@@ -22,7 +22,7 @@ const questions = [
     {
         type: "input",
         name: "instructions",
-        message: "How do you download this project?"
+        message: "How do you install this project?"
     },
     {
         type: "input",
